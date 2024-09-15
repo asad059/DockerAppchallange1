@@ -210,3 +210,6 @@ docker-compose down
 docker-compose up --build
 
 ```
+
+
+![Screenshot of the app](./output.png)
