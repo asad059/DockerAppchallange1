@@ -211,5 +211,6 @@ docker-compose up --build
 
 ```
 
+## Output
 
 ![Screenshot of the app](./output.png)
